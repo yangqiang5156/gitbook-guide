@@ -1,2 +1,3 @@
-# gitbook-guide
-gitbook-guide
+
+# xx平台帮助文档
+1.xx管理平台是什么？
